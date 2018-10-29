@@ -1,0 +1,2 @@
+# majiajack.github.io
+blog
